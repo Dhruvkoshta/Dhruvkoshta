@@ -18,8 +18,8 @@ I am a passionate B.Tech CS student at BMSCE Bangalore, driven by a curiosity fo
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Building server-side applications with Nodejs, a powerful Javascript web framework.
+  - Diving into PostgreSQL and Mongodb for efficient and scalable database management.
 
  ## 🏆 Achievements
 
