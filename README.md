@@ -10,7 +10,7 @@ I am a passionate B.Tech EC student at BMSCE Bangalore, driven by a curiosity fo
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,python,java,express,nextjs,postgres,drizzle,cpp,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,postgres,git,linux,mysql,neovim,react,mongodb,python,java,express,cpp,javascript,firebase,nodejs,prisma,supabase,vite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
