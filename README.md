@@ -15,11 +15,11 @@ I am a passionate B.Tech EC student at BMSCE Bangalore, driven by a curiosity fo
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Exploring the ins and outs of React and Next for dynamic front-end experiences and SSR.
+  - Navigating through the world of NEXTJS for seamless page transitions and web performance.
+  - Styling with Tailwind CSS and ShadCN to create modern and responsive user interfaces.
   - Building server-side applications with Nodejs, a powerful Javascript web framework.
-  - Diving into PostgreSQL and Mongodb for efficient and scalable database management.
+  - Diving into PostgreSQL, SQL and Mongodb for efficient and scalable database management.
 
  ## 🏆 Achievements
 
@@ -28,7 +28,7 @@ I am a passionate B.Tech EC student at BMSCE Bangalore, driven by a curiosity fo
 
 ## 📬 Get in Touch
 
-- Connect with me on [Instagram](https://intagram.com/dhruvkoshta13)
+- Connect with me on [Instagram](https://instagram.com/dhruvkoshta13) [Twitter](https://x.com/dhruvkoshta04) [Linkden](https://www.linkedin.com/in/dhruv-koshta-15252b296/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
