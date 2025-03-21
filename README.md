@@ -28,7 +28,7 @@ I am a passionate B.Tech EC student at BMSCE Bangalore, driven by a curiosity fo
 
 ## 📬 Get in Touch
 
-- Connect with me on [Instagram](https://instagram.com/dhruvkoshta13) [Twitter](https://x.com/dhruvkoshta04) [Linkden](https://www.linkedin.com/in/dhruv-koshta-15252b296/)
+- Connect with me on [Instagram](https://instagram.com/dhruvkoshta13) [Twitter](https://x.com/dhruvkoshta04) [Linkedin](https://www.linkedin.com/in/dhruv-koshta-15252b296/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
